@@ -1,0 +1,11 @@
+.TotalUser{width:100%;}
+.TotalUser .com{height:11rem;}
+.TotalUser header{width:100%;text-align:center;color:rgba(255,255,255,.5);font-size:1.4rem;letter-spacing: 0.1rem;}
+.TotalUser section{font-size:3.2rem;color:#fff;text-align: center;margin-top:0.5rem;box-sizing: border-box;}
+.TotalUser section.pic{height:4rem;line-height:4rem;}
+.TotalUser section img{width:8%;}
+.TotalUser section.arrow{overflow:auto;padding-left:10rem;padding-top:1rem;}
+.TotalUser section.arrow i{color:#1c7dfa;font-weight:bold;}
+.TotalUser section.date{font-size: 1.4rem;color: rgba(255,255,255,.5);line-height: 3rem;height: 3rem;margin-bottom: 0rem;margin-top:0rem;}
+.TotalUser .chart .line-chart-wrapper span{font-size:1.2rem;}
+.TotalUser section.pic i.iconfont{font-size:3rem;color:#1b7dfa;}

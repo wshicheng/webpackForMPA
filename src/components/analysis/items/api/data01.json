@@ -1,0 +1,43 @@
+[
+   
+	{
+		"num":"1",
+		"channelName":"山东卫视高清",
+		"broadCast":"咱家",
+		"ratings":"2.0856%",
+		"sharing":"7.4313%",
+		"viewNumber":"10428"
+	},
+	{
+		"num":"2",
+		"channelName":"CCTV-1",
+		"broadCast":"遥远的距离",
+		"ratings":"1.6958%",
+		"sharing":"6.0424%",
+		"viewNumber":"8479"
+	},
+	{
+		"num":"3",
+		"channelName":"CCTV-4",
+		"broadCast":"华人世界",
+		"ratings":"1.688%",
+		"sharing":"6.0146%",
+		"viewNumber":"8440"
+	},
+	{
+		"num":"4",
+		"channelName":"CCTV-6",
+		"broadCast":"杀戒",
+		"ratings":"1.39%",
+		"sharing":"4.9528%",
+		"viewNumber":"6950"
+	},
+	{
+		"num":"5",
+		"channelName":"海看热播",
+		"broadCast":"王牌对王牌",
+		"ratings":"1.0538%",
+		"sharing":"3.7548%",
+		"viewNumber":"5269"
+	}
+]

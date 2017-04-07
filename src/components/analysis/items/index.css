@@ -1,0 +1,30 @@
+div.con header{line-height:3rem;text-align: center;border-bottom:.1rem solid rgba(255,255,255,.2);color:rgba(255,255,255,.5);}
+div.con header i{vertical-align:bottom;margin-right:.5rem;}
+div.con header span{font-size:1.4rem;font-weight:700;}
+div.con .category{width:100%;font-size:1.4rem;}
+div.con .category span>div{border-right:.1rem solid rgba(255,255,255,.2);}
+div.con .category span:nth-last-child(1)>div{border-right:none;}
+div.con .category span{width:calc(100%/6);display:inline-block;box-sizing:border-box;padding:1rem 0rem;}
+div.con .category span div p{text-align:center;color:rgba(255,255,255,.5)}
+div.con .category span div p.num{color:#ff475b;font-size:1.4rem;font-weight:bold;margin-bottom:.5rem}
+div.dataTV{width:100%;}
+div.tab-btn{font-size:1.4rem;width:100%;border-bottom:0.1rem solid rgba(255,255,255,.2);border-top:0.1rem solid rgba(255,255,255,.2);padding:.5rem 0;}
+div.tab-btn div.channel{width:calc(100%/5);display:inline-block;}
+div.tab-btn div.channel p{text-align: center;}
+div.tab-btn div.channel p.icon{padding-top:.5rem;margin-bottom: 1rem;}
+div.tab-btn div.channel p.icon i{width:3rem;height:3rem;border-radius:50%;display:inline-block;text-align:center;background:#e8e1ce;line-height: 3.5rem;}
+div.tab-btn div.channel{color:#91918f;}
+div.tab-btn div.channel p.name{color:rgba(255,255,255,.5);}
+div.tab-btn div.channel.active{color:#f75459;}
+div.tab-btn div.channel.active p.name{color:#f75459}
+div.template{width:100%;text-align:center;padding:1rem;box-sizing:border-box;font-size:1.4rem;}
+div.template table{border-collapse:collapse;margin:0 auto;width:100%;}
+div.template table thead tr{background:#61648a;}
+div.template table thead tr th{padding:1rem .5rem;color:rgba(255,255,255,.5)}
+div.template table thead tr th:nth-child(1){border-top-left-radius: .5rem;}
+div.template table thead tr th:nth-last-child(1){border-top-right-radius: .5rem;}
+div.template table tbody tr:nth-child(2n+1){background:#4a5471;}
+div.template table tbody tr:nth-child(2n){background:#374261;}
+div.template table tbody tr td{color:#fd5960;border-right:.1rem solid #6a6b6d;padding:.5rem .1rem}
+div.template table tbody tr td:nth-last-child(1){border-right:none;}
+div.template table tbody tr td p.proName{color:rgba(255,255,255,.5);margin:.5rem 0;}

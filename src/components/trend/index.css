@@ -1,0 +1,36 @@
+
+.detail{height:auto;}
+.navBar:after{display:block;clear:both;content:".";visibility:hidden;height:0;}
+.navBar,.navBar a {
+	width: 100%;
+	box-sizing: border-box;
+	padding: 1rem
+}
+.navBar{background:#2b3455;margin-bottom:0.5rem;}
+.navBar a{float: left;
+    border-radius: .6rem;
+    background: #2c3557;
+    list-style-type: none;
+    color: #fff;
+    text-decoration: none;
+    background: #384267;
+    -webkit-transition: all .2s linear;
+    transition: all .2s linear;
+    width: calc( 1*100%/3 - 1rem);
+    margin-right: 0.5rem;
+    margin-left:0.5rem;
+ 	min-height: 11rem;
+    max-height:12rem;
+    padding:1.2rem 0.2rem 0 0.2rem;
+    text-align:center;
+    }
+
+.navBar a:nth-child(1){border:0.1rem solid rgba(229,229,229,0);}
+.navBar a:nth-child(2){border:0.1rem solid rgba(229,229,229,0);}
+.navBar a:nth-child(3){border:0.1rem solid rgba(229,229,229,0);}
+.navBar a:nth-child(3) i{color:rgba(255,255,255,.5);font-size:4rem;line-height:9rem;}
+.navBar a.active{border:0.1rem solid rgba(229,229,229,.3);}
+
+.navBar a div.title{color:#b0b5c3;font-size:1.2rem;margin-top:0rem;margin-top:0rem;}
+.navBar a div.title p{margin-top:.2rem;}
+.detail {color:#fff;}

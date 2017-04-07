@@ -1,0 +1,10 @@
+.NumOfUser{width:100%;}
+.NumOfUser .com{height:11rem;}
+.NumOfUser header{width:100%;text-align:center;color:rgba(255,255,255,.5);font-size:1.4rem;}
+.NumOfUser section{font-size:3.2rem;color:#fff;text-align:center;margin-top:0.5rem;}
+.NumOfUser section.date{font-size:1.4rem;color:rgba(255,255,255,.5);margin-top:0rem;line-height:3rem;height:3rem;margin-bottom: 0rem;}
+.NumOfUser .chart{width:100%;background:#2b3051;}
+.recharts-wrapper{margin:0 auto;}
+.NumOfUser .chart .line-chart-wrapper span{font-size:1.2rem;}
+.highcharts-title tspan{opacity: 0;}
+.NumOfUser section.arrow i{color:#53d769;font-weight:bold;font-size:4rem;}

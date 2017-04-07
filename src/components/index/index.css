@@ -1,0 +1,33 @@
+
+.detail{height:auto;}
+.navBar:after{display:block;clear:both;content:".";visibility:hidden;height:0;}
+.navBar,.navBar a {
+	width: 100%;
+	box-sizing: border-box;
+	padding: 1rem
+}
+.navBar{background:#2b3455;margin-bottom:0.5rem;}
+.navBar a{float: left;
+    border-radius: .6rem;
+    list-style-type: none;
+    color: #fff;
+    text-decoration: none;
+    background: #384267;
+    -webkit-transition: all .2s linear;
+    transition: all .2s linear;
+    width: calc( 1*100%/3 - 1rem);
+    margin-right: 0.5rem;
+    margin-left:0.5rem;
+    min-height: 11rem;
+    max-height:12rem;: 11rem;
+    padding:1.2rem 0.2rem 0 0.2rem;
+    }
+
+.navBar a:nth-child(1){border:0.1rem solid rgba(229,229,229,0);}
+.navBar a:nth-child(2){border:0.1rem solid rgba(229,229,229,0);}
+.navBar a:nth-child(3){border:0.1rem solid rgba(229,229,229,0);}
+.navBar a.active{border:0.1rem solid rgba(229,229,229,.3);}
+
+.navBar a div.title{color:#b0b5c3;font-size:1.2rem;margin-top:0rem;text-indent:0.5rem;}
+.navBar a div.num{color:rgb(176, 181, 195);font-size:1.4rem;margin-top:0.2rem;opacity:.8;padding-left:0.5rem;}
+.detail {color:#fff;}

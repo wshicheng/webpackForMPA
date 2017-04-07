@@ -1,0 +1,10 @@
+.BootRate{width:100%;}
+.BootRate .com{height:11rem}
+.BootRate header{width:100%;text-align:center;color:rgba(255,255,255,.5);font-size:1.4rem;}
+.BootRate section{font-size:3.2rem;color:#fff;text-align: center;margin-top:0.5rem;line-height: 4rem;}
+.BootRate section.date{font-size:1.4rem;color:rgba(255,255,255,.5);margin-top:0rem;line-height:3rem;height:3rem;margin-bottom: 0rem;}
+.BootRate .chart{width:100%;background:#2b3051;}
+.recharts-wrapper{margin:0 auto;}
+.BootRate .chart .line-chart-wrapper span{font-size:1.2rem;}
+.highcharts-title tspan{opacity: 0;}
+
